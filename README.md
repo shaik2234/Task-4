@@ -45,7 +45,7 @@ Task-4/
 
 1. Clone this repo:
    
-   git clone https://github.com/Mahidhar-27/Task-4.git
+   git clone https://github.com/shaik2234/Task-4.git
 Open the folder:
 
 cd responsive-layout
